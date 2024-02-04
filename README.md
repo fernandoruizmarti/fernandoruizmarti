@@ -6,6 +6,8 @@ Puedes preguntarme sobre HTML5, CSS , JAVASCRIPT, ANGULAR, JQUERY, NODEJS, THREE
 El tiempo que le dedico a mi portfolio conlleva reflexión y pasión , al igual que al resto de mis aportaciones. Me gusta que todo salga a la perfección y no tratar de hacer un trabajo lo más rápido posible para dedicarle
 tiempo a otra cosa.
 
+Todos mis proyectos los puedes ver en: https://www.fernandoruizmarti.com, y puedes contactar conmigo en el siguiente enlace:desarrolla@fernandoruizmarti.com
+
 Gracias, un saludo.
 
 <!---
